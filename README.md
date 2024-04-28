@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **saurabhgandhi28@gmail.com**
+- 📫 How to reach me **saurabhgandhi28@outlook.com**
 
 
 
