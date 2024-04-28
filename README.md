@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Multiple Angular Projects**
 
-- 🌱 I’m currently learning **Azure, React**
+- 🌱 I’m currently learning **Azure, .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhgandhi07](https://github.com/saurabhgandhi07)
 
