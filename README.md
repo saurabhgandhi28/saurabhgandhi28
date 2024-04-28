@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Azure, .NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saurabhgandhi07](https://github.com/saurabhgandhi07)
+- 👨‍💻 All of my projects are available at [https://github.com/saurabhgandhi28](https://github.com/saurabhgandhi28)
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **gandhisaurabh9956@gmail.com**
+- 📫 How to reach me **saurabhgandhi28@gmail.com**
 
 
 
